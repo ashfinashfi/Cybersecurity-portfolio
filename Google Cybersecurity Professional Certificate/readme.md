@@ -1,7 +1,7 @@
 
 # Google Cybersecurity Professional Certificate Course Activities
 
-Welcome to my Google Cybersecurity Professional Certificate course activity repository. This repository is organized by chapters, with dedicated sections for portfolio activities. The "practice activities" folder is not included, and this repository is intended for reference purposes, not for collaboration or use by others.
+Welcome to my Google Cybersecurity Professional Certificate course activity repository with dedicated sections for portfolio activities. The "practice activities" folder is not included, and this repository is intended for reference purposes, not for collaboration or use by others.
 
 ## Purpose
 This repository serves the purpose of documenting my progress and solutions for portfolio activities within the Google Cybersecurity Professional Certificate course. 
