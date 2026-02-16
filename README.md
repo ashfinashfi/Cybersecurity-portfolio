@@ -18,7 +18,7 @@ Hands-on cybersecurity portfolio featuring GRC, SOC/SIEM, Incident Response, and
 
 
 ## 🧩 Tools & Technologies  
-**SIEM:** Splunk, ELK Stack (conceptual)  
+**SIEM:** Splunk  
 **Automation:** Python scripting, Bash, SQL  
 **GRC:** Risk Register, Threat Modeling (PASTA), Compliance Audits    
 **Documentation:** Word, Excel,
